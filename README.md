@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**mercury308/mercury308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - I'm @mercury308! 
 - I'm a student interested in topics such as cybersecurity, AI, game development, and bioinformatics
 - 🌱 I’m currently learning R and C++
