@@ -5,6 +5,6 @@
 - I’m looking to collaborate on open source projects, any sort of research, and anything else to further my understanding of things in the world!
 - 🤔 I’m looking for help with personal projects and finding more knowledge to progress my understanding further
 - 📫 You can contact me on Discord via "m3rcury308" or m3rcury#3935
-- 😄 Pronouns: She/Her
+- Pronouns: She/Her
 - ⚡ Familiar programming languages: Python, Java, JavaScript, SQL
 - ⚡ Familiar speaking languages: English, Chinese, and French 
