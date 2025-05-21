@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I'm @mercury308! 
-- I'm a student interested in cybersecurity, AI, robotics, SDR/HAM radio, and bioinformatics
+- I'm a student interested in cybersecurity, ML, robotics, SDR/HAM radio, and bioinformatics
 - 🌱 I’m currently learning R and C++
 - I’m looking to collaborate on open source projects, any sort of research, and anything else to further my understanding of things in the world!
 - 🤔 I’m looking for help with personal projects and finding more knowledge to progress my understanding further
