@@ -1,23 +1,23 @@
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+```text
+┌──(visitor@github)-[~]
+└─$ cat heart.txt
+{
+  "user": @mercury308,
+  "planet": "earth",
+  "status": "currently working on stuff...",
+  "languages": ["english", "中文", "français"]
+}
 ```
-           |  \ \ | |/ /
-          |  |\ `' ' /
-          |  ;'aorta \      / , pulmonary
-          | ;    _,   |    / / ,  arteries
- superior | |   (  `-.;_,-' '-' ,
-vena cava | `,   `-._       _,-'_
-          |,-`.    `.)    ,<_,-'_, pulmonary
-         ,'    `.   /   ,'  `;-' _,  veins
-        ;        `./   /`,    \-'
-        | right   /   |  ;\   |\
-        | atrium ;_,._|_,  `, ' \
-        |        \    \ `       `,
-        `      __ `    \   left  ;,
-         \   ,'  `      \,  ventricle
-          \_(            ;,      ;;
-          |  \           `;,     ;;
- inferior |  |`.          `;;,   ;'
-vena cava |  |  `-.        ;;;;,;'
-          |  |    |`-.._  ,;;;;;'
-          |  |    |   | ``';;;'  
-                  aorta"
+
+
+```text
+  ,d88b.d88b,
+  88888888888
+  `Y8888888Y'
+    `Y888Y'    
+      `Y'
 ```
