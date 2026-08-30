@@ -16,7 +16,7 @@
 {
   "user": "mercury308",
   "planet": "earth",
-  "status": "currently working on things!"
+  "status": "working on fun projects!"
 }
   ,d88b.d88b,
   88888888888
