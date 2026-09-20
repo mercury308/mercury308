@@ -2,9 +2,7 @@
 ┌──(visitor@github)-[~]
 └─$ cat heart.json
 {
-  "primary_weapons": ["Python", "C++", "Java"],
-  "web_gear": ["JavaScript", "TypeScript", "HTML/CSS"],
-  "favorite_teas": ["Darjeeling", "Osmanthus", "Sencha", "Peppermint"],
+  "favorite_teas": ["Darjeeling", "Sencha", "Peppermint"],
   "quest_log": "Building fun stuff and learning new things!"
 }
   ,d88b.d88b,
