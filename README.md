@@ -2,8 +2,8 @@
 ┌──(visitor@github)-[~]
 └─$ cat heart.json
 {
-  "favorite_teas": ["Darjeeling", "Sencha", "Peppermint"],
-  "quest_log": "Building fun stuff and learning new things!"
+  "quest_log": "Building fun stuff and learning new things!",
+  "favorite_teas": ["Darjeeling", "Sencha", "Peppermint"]
 }
   ,d88b.d88b,
   88888888888
